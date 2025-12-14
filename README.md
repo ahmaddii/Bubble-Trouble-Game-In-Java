@@ -51,7 +51,7 @@ resources/
 
 Clone the repository
 
-git clone https://github.com/your-username/bubble-trouble-java.git
+git clone https://github.com/ahmaddii/bubble-trouble-java.git
 
 
 Open the project in VS Code / IntelliJ IDEA
